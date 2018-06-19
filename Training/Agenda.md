@@ -1,5 +1,11 @@
 # Agenda
 
+## Proposed Agenda
+
+Mapping of ICP to the Kubernetes components
+How the ICP components are controlled (DaemonSet, StatefulSet, etc)
+
+
 ## Day 1
 
 Overview of ICP
