@@ -2,8 +2,8 @@
 
 ## Proposed Agenda
 
-Mapping of ICP to the Kubernetes components
-How the ICP components are controlled (DaemonSet, StatefulSet, etc)
+- Mapping of ICP to the Kubernetes components
+- How the ICP components are controlled (DaemonSet, StatefulSet, etc)
 
 
 ## Day 1
