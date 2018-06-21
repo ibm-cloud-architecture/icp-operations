@@ -1,33 +1,75 @@
 # Agenda
 
-## Proposed Agenda
+## Day 1 - Introduction
 
-- Mapping of ICP to the Kubernetes components
-- How the ICP components are controlled (DaemonSet, StatefulSet, etc)
+| Duration | Topic | Presenter |
+|---|---|---|
+| 30 mins | Welcome | Eduardo |
+| 1 hr | Kubernetes 101 | Jerome |
+| 30 mins | Helm 101 | Eduardo |
+
+## Day 2 - Architecture
+
+### AM
+
+| Duration | Topic | Presenter |
+|---|---|---|
+| 1 hr | ICP 101 | Jerome |
+| 1 hr | ICP Hands-on | Eduardo |
+| 2 hrs | ICP Installation | Hans |
+
+### PM
+| Duration | Topic | Presenter |
+|---|---|---|
+| 2hrs | Kubernetes 201 | Hans |
+| 1 hr | ICP 201 | Eduardo |
+| 1 hr | ICP Hands-on (Platform) | Hans |
+
+## Day 3 - Storage, Network & Operations
+
+### AM
+
+| Duration | Topic | Presenter | 
+|---|---|---|
+| 1h | Hands-on Kibana / Graphana / Prometheus | Hans
+| 1 hr | Storage | Jerome |
+| 1 hr | Hands-on Storage | Jerome |
+
+### PM
+
+| Duration | Topic | Presenter | 
+|---|---|---|
+| 1h | Network | Hans |
+| 1h | ICP Operations - CLI | Hans | 
+| 30 mins | Top 10 topics | Hans
+| 1h | Advanced Troubleshooting | Hans |
+
+## Day 4 - Deployment, Operations, & Resilience
+
+### AM
+
+| Duration | Topic | Presenter | 
+|---|---|---|
+| 1h | ICP Deployment topologies | all |
+| 1h | Network Demo | Hans |
+| 1h | ICP Monitoring capabilities | Hans |
+
+### PM
+
+| Duration | Topic | Presenter | 
+|---|---|---|
+| 1h | Application Resilience | Eduardo |
+| 1h | Hands-on Resilience | Eduardo |
+
+## Day 5 - TBD
+
+### AM
+
+Open
+
+### PM
+
+Open
 
 
-## Day 1
 
-Overview of ICP
-
-- Deep dive on Kubernetes architecture, functions and dependencies
-- Deep dive on ICP specific components, what makes ICP special
-Demonstrating troubleshooting techniques part 1
- 
-## Day 2
-
-Demonstrating troubleshooting techniques part 2
-Management components of ICP:
-
-- Monitoring
-- Dashboarding
-- Logging
-- Metering
-
-The Evolution of IT Service Management towards Cloud Service Management and Operations, ICP
- 
-## Day 3
-
-- Advanced troubleshooting techniques part 3 and part 4
-- Top Ten Topics on ICP
-- Summary
