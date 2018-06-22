@@ -2,12 +2,12 @@
 
 ## Day 1 - Introduction
 
-| Duration | Topic | Presenter |
-|---|---|---|
+| Duration | Topic | Presenter | Presentation |
+|---|---|---|---|
 | 30 mins | Welcome | Eduardo |
-| 1 hr | Kubernetes 101 | Jerome |
+| 1 hr | Kubernetes 101 | Eduardo |
 | 30 mins | Helm 101 | Eduardo |
-| 1 hr | ICP 101 | Hans |
+| 1 hr | ICP 101 | Eduardo | 
 
 ## Day 2 - Architecture
 
