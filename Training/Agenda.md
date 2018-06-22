@@ -12,7 +12,7 @@
 
 ## Presentations
 
-[ICP 101](ICP Architecture - JMA - JOW.pptx)
+[ICP 101](./ICP Architecture - JMA - JOW.pptx)
 
 ## Day 2 - Architecture
 
