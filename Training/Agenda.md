@@ -7,7 +7,7 @@
 | 30 mins | Welcome | Eduardo |
 | 1 hr | Kubernetes 101 | Eduardo |
 | 30 mins | Helm 101 | Eduardo |
-| 1 hr | ICP 101 | Eduardo | 
+| 1 hr | ICP 101 | Eduardo | <ICP Architecture - JMA - JOW.pptx>
 
 ## Day 2 - Architecture
 
