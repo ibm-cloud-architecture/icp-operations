@@ -3,7 +3,7 @@
 ## Day 1 - Introduction
 
 | Duration | Topic | Presenter | 
-|---|---|---|---|
+|---|---|---|
 | 30 mins | Welcome | Eduardo |
 | 1 hr | Kubernetes 101 | Eduardo |
 | 30 mins | Helm 101 | Eduardo |
