@@ -7,6 +7,7 @@
 | 30 mins | Welcome | Eduardo |
 | 1 hr | Kubernetes 101 | Jerome |
 | 30 mins | Helm 101 | Eduardo |
+| 1 hr | ICP 101 | Hans |
 
 ## Day 2 - Architecture
 
@@ -14,7 +15,6 @@
 
 | Duration | Topic | Presenter |
 |---|---|---|
-| 1 hr | ICP 101 | Jerome |
 | 1 hr | ICP Hands-on | Eduardo |
 | 2 hrs | ICP Installation | Hans |
 
@@ -31,7 +31,7 @@
 
 | Duration | Topic | Presenter | 
 |---|---|---|
-| 1h | Hands-on Kibana / Graphana / Prometheus | Hans
+| 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
 | 1 hr | Storage | Jerome |
 | 1 hr | Hands-on Storage | Jerome |
 
