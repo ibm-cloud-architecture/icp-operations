@@ -2,12 +2,17 @@
 
 ## Day 1 - Introduction
 
-| Duration | Topic | Presenter | Presentation |
+| Duration | Topic | Presenter | 
 |---|---|---|---|
 | 30 mins | Welcome | Eduardo |
 | 1 hr | Kubernetes 101 | Eduardo |
 | 30 mins | Helm 101 | Eduardo |
-| 1 hr | ICP 101 | Eduardo | [ICP 101](ICP Architecture - JMA - JOW.pptx)
+| 1 hr | ICP 101 | Eduardo | 
+
+
+## Presentations
+
+[ICP 101](ICP Architecture - JMA - JOW.pptx)
 
 ## Day 2 - Architecture
 
