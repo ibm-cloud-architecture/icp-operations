@@ -6,7 +6,7 @@
 |---|---|---|---|
 | 30 mins | Welcome | Eduardo |
 | 1 hr | Kubernetes 101 | Eduardo |
-| 30 mins | Helm 101 | Eduardo |
+| 30 mins | Helm 101 | Eduardo | [Helm]()
 | 1 hr | ICP 101 | Eduardo | [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx) |
 
 
