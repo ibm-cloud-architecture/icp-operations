@@ -7,7 +7,7 @@
 | 30 mins | Welcome | Eduardo |
 | 1 hr | Kubernetes 101 | Eduardo | [Docker](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Containers%20and%20Docker_MI.pptx?raw=true) [Kubernetes](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Kubernetes%20basics_AWG.pptx?raw=true)
 | 30 mins | Helm 101 | Eduardo | [Helm](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Helm%20basics_AWG.pptx?raw=true) |
-| 1 hr | ICP 101 | Eduardo | [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
+| 1 hr | ICP 101 | Eduardo |  |
 
 
 
@@ -22,10 +22,10 @@
 | 2 hrs | ICP Installation | Hans |
 
 ### PM
-| Duration | Topic | Presenter |
-|---|---|---|
+| Duration | Topic | Presenter | Presentation |
+|---|---|---|---|
 | 2hrs | Kubernetes 201 | Hans |
-| 1 hr | ICP 201 | Eduardo |
+| 1 hr | ICP 201 | Eduardo | [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
 | 1 hr | ICP Hands-on (Platform) | Hans |
 
 ## Day 3 - Storage, Network & Operations
