@@ -2,7 +2,7 @@
 
 ## Day 1 - Introduction
 
-| Duration | Topic | Presenter | Presentation |
+| Duration | Topic | Presenter | Link |
 |---|---|---|---|
 | 30 mins | Welcome | Eduardo |
 | 1 hr | Kubernetes 101 | Eduardo | [Docker](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Containers%20and%20Docker_MI.pptx?raw=true) [Kubernetes](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Kubernetes%20basics_AWG.pptx?raw=true)
@@ -16,16 +16,16 @@
 
 ### AM
 
-| Duration | Topic | Presenter |
-|---|---|---|
-| 1 hr | ICP Hands-on | Eduardo |
+| Duration | Topic | Presenter | Link |
+|---|---|---|---|
+| 1 hr | ICP Hands-on | Eduardo | [Simple application](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md) [Console](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md) [CLI](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
 | 2 hrs | ICP Installation | Hans |
 
 ### PM
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 2hrs | Kubernetes 201 | Hans |
-| 1 hr | ICP 201 | Eduardo | [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
+| 1 hr | ICP 201 | Eduardo | [ICP 201](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
 | 1 hr | ICP Hands-on (Platform) | Hans |
 
 ## Day 3 - Storage, Network & Operations
@@ -59,10 +59,10 @@
 
 ### PM
 
-| Duration | Topic | Presenter | 
-|---|---|---|
-| 1h | Application Resilience | Eduardo |
-| 1h | Hands-on Resilience | Eduardo |
+| Duration | Topic | Presenter | Link | 
+|---|---|---|---|
+| 1h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
+| 1h | Hands-on Resilience | Eduardo | [Ping-pong](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/tree/master/v2)
 
 ## Day 5 - TBD
 
