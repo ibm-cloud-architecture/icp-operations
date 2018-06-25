@@ -24,9 +24,8 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 30 min | Install CLI | Eduardo | [Install CLI](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
-| 1 hr | ICP Hands-on | Eduardo | [Simple application](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md)<br> [Console](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md)<br> [CLI](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
 | 2hrs | Kubernetes 201 | Hans |
-| 1 hr | ICP Hands-on (Platform) | Hans |
+| 2 hrs | ICP Hands-on | Eduardo | [Console](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md)<br> [Simple application](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md)
 
 ## Day 3 - Storage, Network & Operations
 
@@ -35,6 +34,7 @@
 | Duration | Topic | Presenter | 
 |---|---|---|
 | 1 hr | ICP 201 | Eduardo | [ICP 201](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
+| 1 hr | ICP Hands-on (Platform) | Hans |
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
 | 1 hr | Storage | Jerome |
 
