@@ -6,8 +6,6 @@
 |---|---|---|---|
 | 30 mins | Welcome | Eduardo | [Introduction](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Operations%20Intro.pptx?raw=true)
 | 1 hr | Kubernetes 101 | Eduardo | [Docker](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Containers%20and%20Docker_MI.pptx?raw=true) [Kubernetes](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Kubernetes%20basics_AWG.pptx?raw=true)
-| 30 mins | Helm 101 | Eduardo | [Helm](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Helm%20basics_AWG.pptx?raw=true) |
-| 1 hr | ICP 101 | Eduardo |  [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/IBM%20Cloud%20Private.pptx?raw=true) |
 
 
 
@@ -18,14 +16,15 @@
 
 | Duration | Topic | Presenter | Link |
 |---|---|---|---|
-| 1 hr | ICP Hands-on | Eduardo | [Simple application](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md) [Console](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md) [CLI](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
+| 30 mins | Helm 101 | Eduardo | [Helm](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Helm%20basics_AWG.pptx?raw=true) |
+| 1 hr | ICP 101 | Jerome |  [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/IBM%20Cloud%20Private.pptx?raw=true) |
 | 2 hrs | ICP Installation | Hans |
 
 ### PM
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
+| 1 hr | ICP Hands-on | Eduardo | [Simple application](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md) [Console](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md) [CLI](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
 | 2hrs | Kubernetes 201 | Hans |
-| 1 hr | ICP 201 | Eduardo | [ICP 201](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
 | 1 hr | ICP Hands-on (Platform) | Hans |
 
 ## Day 3 - Storage, Network & Operations
@@ -34,18 +33,17 @@
 
 | Duration | Topic | Presenter | 
 |---|---|---|
+| 1 hr | ICP 201 | Eduardo | [ICP 201](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
 | 1 hr | Storage | Jerome |
-| 1 hr | Hands-on Storage | Jerome |
 
 ### PM
 
 | Duration | Topic | Presenter | 
 |---|---|---|
+| 1 hr | Hands-on Storage | Jerome |
 | 1h | Network | Hans |
-| 1h | ICP Operations - CLI | Hans | 
-| 30 mins | Top 10 topics | Hans
-| 1h | Advanced Troubleshooting | Hans |
+| 1.5h | ICP Operations - CLI | Hans | 
 
 ## Day 4 - Deployment, Operations, & Resilience
 
@@ -53,9 +51,9 @@
 
 | Duration | Topic | Presenter | 
 |---|---|---|
-| 1h | ICP Deployment topologies | all |
+| 30 mins | Top 10 topics | Hans
+| 1h | ICP Deployment discussion | all |
 | 1h | Network Demo | Hans |
-| 1h | ICP Monitoring capabilities | Hans |
 
 ### PM
 
