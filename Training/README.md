@@ -4,7 +4,7 @@
 
 | Duration | Topic | Presenter | Link |
 |---|---|---|---|
-| 30 mins | Welcome | Eduardo |
+| 30 mins | Welcome | Eduardo | [Introduction](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Operations%20Intro.pptx?raw=true)
 | 1 hr | Kubernetes 101 | Eduardo | [Docker](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Containers%20and%20Docker_MI.pptx?raw=true) [Kubernetes](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Kubernetes%20basics_AWG.pptx?raw=true)
 | 30 mins | Helm 101 | Eduardo | [Helm](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Helm%20basics_AWG.pptx?raw=true) |
 | 1 hr | ICP 101 | Eduardo |  [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/IBM%20Cloud%20Private.pptx?raw=true) |

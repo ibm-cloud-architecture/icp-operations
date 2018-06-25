@@ -3,7 +3,7 @@ Describe the procedure and scripts to operate an ICP environment
 
 # Training
 
-[Training](Training/Agenda.md)
+[Training](Training/README.md)
 
 # Scenarios
 
