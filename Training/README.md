@@ -23,7 +23,7 @@
 ### PM
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
-| 1 hr | ICP Hands-on | Eduardo | [Simple application](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md) [Console](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md) [CLI](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
+| 1 hr | ICP Hands-on | Eduardo | [Simple application](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md)<br> [Console](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md)<br> [CLI](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
 | 2hrs | Kubernetes 201 | Hans |
 | 1 hr | ICP Hands-on (Platform) | Hans |
 
