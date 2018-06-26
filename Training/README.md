@@ -24,7 +24,7 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 30 min | Install CLI | Eduardo | [Install CLI](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
-| 2hrs | Kubernetes 201 | Hans |
+| 2hrs | Kubernetes 201 | Hans | [Kubernetes 201](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/Kubernetes201.pptx?raw=true)
 | 2 hrs | ICP Hands-on | Eduardo | [Console](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md)<br> [Simple application](https://github.ibm.com/eduardop/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md)
 
 ## Day 3 - Storage, Network & Operations
