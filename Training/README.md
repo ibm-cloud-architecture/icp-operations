@@ -18,14 +18,14 @@
 |---|---|---|---|
 | 30 mins | Helm 101 | Eduardo | [Helm](https://github.ibm.com/CASE/icp-operations/blob/master/Training/Helm%20basics_AWG.pptx?raw=true) |
 | 1 hr | ICP 101 | Jerome |  [ICP 101](https://github.ibm.com/CASE/icp-operations/blob/master/Training/IBM%20Cloud%20Private.pptx?raw=true) |
-| 2 hrs | ICP Installation | Hans |
+| 2hrs | Kubernetes 201 | Hans | [Kubernetes 201](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/Kubernetes201.pptx?raw=true)
 
 ### PM
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 30 min | Install CLI | Eduardo | [Install CLI](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Install-CLI-Tools_DJM.md)
-| 2hrs | Kubernetes 201 | Hans | [Kubernetes 201](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/Kubernetes201.pptx?raw=true)
 | 2 hrs | ICP Hands-on | Eduardo | [Console](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Console-Treasure-Hunt_DJM.md)<br> [Simple application](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Deploy-NodeJS-Helm_DJM.md)
+| 2 hrs | ICP Installation | Hans |
 
 ## Day 3 - Storage, Network & Operations
 
