@@ -31,8 +31,8 @@
 
 ### AM
 
-| Duration | Topic | Presenter | 
-|---|---|---|
+| Duration | Topic | Presenter | Presentation |
+|---|---|---|---|
 | 1 hr | ICP 201 | Eduardo | [ICP 201](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
 | 1 hr | ICP Hands-on (Platform) | Hans |
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
