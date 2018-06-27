@@ -34,7 +34,7 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 1 hr | ICP 201 | Jerome | [ICP 201](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
-| 1 hr | ICP Operations - CLI | Hans | [ICP CLI Operations](Training/kubectl.md)
+| 1 hr | ICP Operations - CLI | Hans | [ICP CLI Operations](kubectl.md)
 | 1 hr | Storage | Jerome |
 
 ### PM
