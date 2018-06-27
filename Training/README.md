@@ -41,10 +41,10 @@
 
 | Duration | Topic | Presenter |
 |---|---|---|
-| 1 hr | Hands-on Storage | Jerome |
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
-| 1h | Network | Jerome |
-
+| 1h | Network | Hans / Jerome |
+| 30 mins | RBAC | Jerome |
+| 30 mins | Docker Storage | Hans |
 
 ## Day 4 - Deployment, Operations, & Resilience
 
