@@ -43,7 +43,7 @@
 |---|---|---|
 | 1 hr | Hands-on Storage | Jerome |
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
-| 1h | Network | Hans |
+| 1h | Network | Jerome |
 
 
 ## Day 4 - Deployment, Operations, & Resilience
