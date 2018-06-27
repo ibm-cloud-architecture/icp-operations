@@ -35,16 +35,16 @@
 |---|---|---|---|
 | 1 hr | ICP 201 | Jerome | [ICP 201](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
 | 1 hr | ICP Operations - CLI | Hans | [ICP CLI Operations](kubectl.md)
-| 1 hr | Storage | Jerome |
+| 1 hr | Storage | Jerome |[Storage](ICP_Storage-JMA.pdf)
 
 ### PM
 
 | Duration | Topic | Presenter |
 |---|---|---|
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
-| 1h | Network | Hans / Jerome |
-| 30 mins | RBAC | Jerome |
-| 30 mins | Docker Storage Driver | Hans |
+| 1h | Network | Jerome |[Micro Segmentation](Micro-segmantation.pdf)
+| 30 mins | RBAC | Jerome |[User RBAC](User_RBAC.pdf)
+| 30 mins | Docker Storage | Hans |
 
 ## Day 4 - Deployment, Operations, & Resilience
 
@@ -52,16 +52,15 @@
 
 | Duration | Topic | Presenter |
 |---|---|---|
-| 1h | RBAC Hands-on | Jerome |
+| 30 mins | RBAC Hands on | Jerome | [instructions](rbac_handson.md)
+| 30 mins | Top 10 topics | Hans
 | 1h | ICP Deployment discussion | all |
-| 1h | Calico Demo | Jerome |
+| 1h | Network Demo | Hans |
 
 ### PM
 
 | Duration | Topic | Presenter | Link |
 |---|---|---|---|
-| 30 mins | Top 10 topics | Hans
-| 1h | Platform Troubleshooting | Hans |
 | 2h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
 
 ## Day 5 - Labs
@@ -70,11 +69,10 @@
 
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
-| 1 hr | Disaster Recovery | Eduardo |
 | 1h | Docker images | Eduardo | [Docker images](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Private-Docker-Registry-CJH.md)
 | 30 mins | Autoscaling applications | Eduardo | [Autoscale](https://ansi.23-5.eu/2018/02/workload-container-autoscaling-kubernetes/)
 
- 
+
 
 ### PM
 
