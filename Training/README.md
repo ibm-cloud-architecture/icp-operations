@@ -54,12 +54,14 @@
 |---|---|---|
 | 30 mins | Top 10 topics | Hans
 | 1h | ICP Deployment discussion | all |
-| 1h | Network Demo | Hans |
+| 1h | Calico Demo | Hans |
 
 ### PM
 
 | Duration | Topic | Presenter | Link |
 |---|---|---|---|
+| 1h | Platform Troubleshooting | Hans |
+| 1h | RBAC Hands-on | Jerome |
 | 2h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
 
 ## Day 5 - Labs
