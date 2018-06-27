@@ -52,16 +52,16 @@
 
 | Duration | Topic | Presenter |
 |---|---|---|
-| 30 mins | Top 10 topics | Hans
+| 1h | RBAC Hands-on | Jerome |
 | 1h | ICP Deployment discussion | all |
-| 1h | Calico Demo | Hans |
+| 1h | Calico Demo | Jerome |
 
 ### PM
 
 | Duration | Topic | Presenter | Link |
 |---|---|---|---|
+| 30 mins | Top 10 topics | Hans
 | 1h | Platform Troubleshooting | Hans |
-| 1h | RBAC Hands-on | Jerome |
 | 2h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
 
 ## Day 5 - Labs
@@ -70,6 +70,7 @@
 
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
+| 1 hr | Disaster Recovery | Eduardo |
 | 1h | Docker images | Eduardo | [Docker images](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Private-Docker-Registry-CJH.md)
 | 30 mins | Autoscaling applications | Eduardo | [Autoscale](https://ansi.23-5.eu/2018/02/workload-container-autoscaling-kubernetes/)
 
