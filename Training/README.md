@@ -34,23 +34,23 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 1 hr | ICP 201 | Jerome | [ICP 201](https://github.ibm.com/CASE/icp-operations/blob/master/Training/ICP%20Architecture%20-%20JMA%20-%20JOW.pptx?raw=true) |
-| 1 hr | ICP Hands-on (Platform) | Hans |
-| 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
+| 1 hr | ICP Operations - CLI | Hans | [ICP CLI Operations](Training/kubectl.md)
 | 1 hr | Storage | Jerome |
 
 ### PM
 
-| Duration | Topic | Presenter | 
+| Duration | Topic | Presenter |
 |---|---|---|
 | 1 hr | Hands-on Storage | Jerome |
+| 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
 | 1h | Network | Hans |
-| 1.5h | ICP Operations - CLI | Hans | 
+
 
 ## Day 4 - Deployment, Operations, & Resilience
 
 ### AM
 
-| Duration | Topic | Presenter | 
+| Duration | Topic | Presenter |
 |---|---|---|
 | 30 mins | Top 10 topics | Hans
 | 1h | ICP Deployment discussion | all |
@@ -58,7 +58,7 @@
 
 ### PM
 
-| Duration | Topic | Presenter | Link | 
+| Duration | Topic | Presenter | Link |
 |---|---|---|---|
 | 1h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
 | 1h | Hands-on Resilience | Eduardo | [Ping-pong](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/tree/master/v2)
@@ -72,6 +72,3 @@ Open
 ### PM
 
 Open
-
-
-
