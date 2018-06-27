@@ -1,6 +1,6 @@
 # Monitoring applications from the console 101
 
-To setup kubectl with an authentication token, you will first need to get an authentication token from the console
+To setup kubectl with an authentication token, you will first need to get an authentication token from the console: [https://169.61.143.190:8443/oidc/login.jsp](https://169.61.143.190:8443/oidc/login.jsp) 
 
 
 1. Get a list of the pods in the namespace `kubectl get pods`
