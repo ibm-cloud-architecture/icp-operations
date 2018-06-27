@@ -60,8 +60,7 @@
 
 | Duration | Topic | Presenter | Link |
 |---|---|---|---|
-| 1h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
-| 1h | Hands-on Resilience | Eduardo | [Ping-pong](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/tree/master/v2)
+| 2h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
 
 ## Day 5 - Labs
 
