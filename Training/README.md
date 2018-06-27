@@ -63,12 +63,22 @@
 | 1h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
 | 1h | Hands-on Resilience | Eduardo | [Ping-pong](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/tree/master/v2)
 
-## Day 5 - TBD
+## Day 5 - Labs
 
 ### AM
 
-Open
+| Duration | Topic | Presenter | Presentation |
+|---|---|---|---|
+| 1h | Docker images | Eduardo | [Docker images](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs_development/Lab-Private-Docker-Registry-CJH.md)
+| 1h | CI/CD | Eduardo | [CI/CD](https://www.ibm.com/cloud/garage/tutorials/cloud-private-jenkins-pipeline)
+| 1h | Autoscaling applications | Eduardo | [Autoscale](https://ansi.23-5.eu/2018/02/workload-container-autoscaling-kubernetes/)
+
+
 
 ### PM
+
+| Duration | Topic | Presenter | Presentation |
+|---|---|---|---|
+| 1h | Microclimate | Eduardo | [Microclimate]()
 
 Open
