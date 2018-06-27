@@ -44,7 +44,7 @@
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
 | 1h | Network | Hans / Jerome |
 | 30 mins | RBAC | Jerome |
-| 30 mins | Docker Storage | Hans |
+| 30 mins | Docker Storage Driver | Hans |
 
 ## Day 4 - Deployment, Operations, & Resilience
 
