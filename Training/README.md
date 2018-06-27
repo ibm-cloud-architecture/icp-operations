@@ -69,8 +69,7 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 1h | Docker images | Eduardo | [Docker images](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Private-Docker-Registry-CJH.md)
-| 1h | CI/CD | Eduardo | [CI/CD](https://www.ibm.com/cloud/garage/tutorials/cloud-private-jenkins-pipeline)
-| 1h | Autoscaling applications | Eduardo | [Autoscale](https://ansi.23-5.eu/2018/02/workload-container-autoscaling-kubernetes/)
+| 30 mins | Autoscaling applications | Eduardo | [Autoscale](https://ansi.23-5.eu/2018/02/workload-container-autoscaling-kubernetes/)
 
  
 
