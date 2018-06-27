@@ -77,7 +77,7 @@ To setup kubectl with an authentication token, you will first need to get an aut
     Exit Code:    1
     ```
     We don't know what it is yet
-    - We can see that kubernetes is automatically throttling the restarts
+    - We can see that kubernetes is automatically throttling the restarts. Kuberentes does this to protect the system and prevent any application from compromising the stability of the overall system.
     ```
     Warning  BackOff  6m (x482 over 11h)  kubelet, 169.61.143.185  Back-off restarting failed container
     ```
@@ -217,5 +217,10 @@ Note the format of the output.
 3. log entry
 
 
-#### Extra challenge
-Figure out how to query logs based on labels that group multiple pods. 
+#### Extra challenges
+
+1. Figure out how to query logs based on labels that group multiple pods with stern
+2. Investigate the operations you can do with kubectl `kubectl --help`
+3. If you operating system allows it, setup autocomplete for kubectl and stern
+    - [kubectl autocomplete](https://kubernetes.io/docs/tasks/tools/install-kubectl/#enabling-shell-autocompletion)
+    - [stern autocomplete](https://github.com/wercker/stern#completion)
