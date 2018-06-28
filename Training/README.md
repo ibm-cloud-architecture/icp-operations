@@ -69,6 +69,7 @@
 
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
+| 1h | Disaster Recovery | Eduardo |
 | 1h | Docker images | Eduardo | [Docker images](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Private-Docker-Registry-CJH.md)
 | 30 mins | Autoscaling applications | Eduardo | [Autoscale](https://ansi.23-5.eu/2018/02/workload-container-autoscaling-kubernetes/)
 
@@ -79,6 +80,7 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 1h | Microclimate | Eduardo | [Microclimate](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/Microclimate_DJM.pptx?raw=true)
+| 1h | Install Microclimate | Eduardo | [Microclimate Insllation](https://github.com/IBM/charts/blob/master/stable/ibm-microclimate/README.md) |
 | 1h | Labs: Microclimate | Eduardo | [Microclimate Lab](https://github.com/ibm-cloud-architecture/cloud-private-bootcamp/blob/master/Labs_development/Lab-Microclimate_DJM.md)
 
 Open
