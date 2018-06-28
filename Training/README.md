@@ -42,8 +42,8 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
-| 1h | Network | Jerome |[Micro Segmentation](Micro-segmantation.pdf)
-| 30 mins | RBAC | Jerome |[User RBAC](User_RBAC.pdf)
+| 1h | Network | Jerome |[Micro Segmentation](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/Micro-segmantation.pdf?raw=true)
+| 30 mins | RBAC | Jerome |[User RBAC](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/User_RBAC.pdf?raw=true)
 | 30 mins | Docker Storage | Hans |
 
 ## Day 4 - Deployment, Operations, & Resilience
