@@ -50,8 +50,8 @@
 
 ### AM
 
-| Duration | Topic | Presenter |
-|---|---|---|
+| Duration | Topic | Presenter | Presentation |
+|---|---|---|---|
 | 30 mins | RBAC Hands on | Jerome | [instructions](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/rbac_handson.md)
 | 30 mins | Top 10 topics | Hans
 | 1h | ICP Deployment discussion | all |
