@@ -39,8 +39,8 @@
 
 ### PM
 
-| Duration | Topic | Presenter |
-|---|---|---|
+| Duration | Topic | Presenter | Presentation |
+|---|---|---|---|
 | 1h | Hands-on Kibana / Graphana	 / Prometheus | Hans
 | 1h | Network | Jerome |[Micro Segmentation](Micro-segmantation.pdf)
 | 30 mins | RBAC | Jerome |[User RBAC](User_RBAC.pdf)
