@@ -61,6 +61,7 @@
 
 | Duration | Topic | Presenter | Link |
 |---|---|---|---|
+| 1h | Advanced Troubleshooting | Hans |
 | 2h | Application Resilience | Eduardo | [Resilience](https://github.ibm.com/eduardop/chaos-monkey-playing-ping-pong/blob/master/v2/Presentation/Kubernetes-Resilience.pptx?raw=true)
 
 ## Day 5 - Labs
