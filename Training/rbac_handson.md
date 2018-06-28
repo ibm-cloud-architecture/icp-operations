@@ -62,7 +62,7 @@ rules:
 
 11. login as user1 (id:user1, pwd: ChangeMe)
 ```
-bx pr login -a https://169.61.143.190:8443 --skip-sll-validation
+bx pr login -a https://169.61.143.190:8443 --skip-ssl-validation
 ```
 
 12. Check that user1 has no permission to create images on default your_namespace.
