@@ -22,16 +22,16 @@ The exercise will be done on cluster available at ip address `169.61.143.190`
 
 The file should be similar to :
 ```
-      kind: ClusterRole
-      apiVersion: rbac.authorization.k8s.io/v1
-        metadata:
-      name: icp:develop
-      labels:
-        kubernetes.io/bootstrapping: rbac-defaults
-      rules:
-      - apiGroups: ["icp.ibm.com"]
-        resources: ["images"]
-        verbs: ["create", "get", "list", "patch", "update", "watch"]
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  name: icp:develop
+  labels:
+    kubernetes.io/bootstrapping: rbac-defaults
+rules:
+- apiGroups: ["icp.ibm.com"]
+  resources: ["images"]
+  verbs: ["create", "get", "list", "patch", "update", "watch"]
 ```
 
 9. Create the role and associate it your namespace `<your_namespace>`.
@@ -60,22 +60,19 @@ The file should be similar to :
   kubectl describe rolebinding icp:<your_team>:developer -n <your_namespace>
 ```
 
-11. import a docker image on your environment
+11. login as user1 (id:user1, pwd: ChangeMe)
 ```
-  docker pull ngnix
-```
-
-12. Tag the image
-```
-  docker tag nginx:latest mycluster.icp:8500/<your_namespace>/ngnix:1.0
+bx pr login -a https://169.61.143.190:8443 --skip-sll-validation
 ```
 
-13. Login to docker image using the user `user1`.
+12. Check that user1 has no permission to create images on default your_namespace.
+
 ```
-  docker login
+  kubectl auth can-i create images.icp.ibm.com
 ```
 
-14. Push the image
+13. Check that user1 has  permission to create images on your namespace <your namespace>
+
 ```
-  docker push mycluster.icp:8500/<your_namespace>/ngnix:1.0
+  kubectl auth can-i create images.icp.ibm.com -n <your_namespace>
 ```
