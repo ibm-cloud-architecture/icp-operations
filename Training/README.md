@@ -80,5 +80,5 @@
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
 | 1h | Microclimate | Eduardo | [Microclimate](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/Microclimate_DJM.pptx?raw=true)
-| 1h | Microclimate Demo | Eduardo | [Microclimate Demo](https://youtu.be/iMQnrMBeEc8)
-Open
+| 30 mins | Microclimate Demo | Eduardo | [Microclimate Demo](https://youtu.be/iMQnrMBeEc8)
+| 1h | Lab: Microclimate | Eduardo | [Microclimate Lab](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Microclimate_DJM.md)
