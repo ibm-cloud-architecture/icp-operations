@@ -69,7 +69,7 @@
 
 | Duration | Topic | Presenter | Presentation |
 |---|---|---|---|
-| 1h | Disaster Recovery | Eduardo |
+| 1h | Disaster Recovery | Eduardo | [Backup](https://github.com/ibm-cloud-architecture/icp-operations/blob/master/Training/ICP%20Backup%20&%20Restore%20Strategy%20-%20JMA%20-%20EP.pptx?raw=true)
 | 1h | Docker images | Eduardo | [Docker images](https://github.com/patrocinio/cloud-private-bootcamp/blob/master/Labs_development/Lab-Private-Docker-Registry-CJH.md)
 | 30 mins | Autoscaling applications | Eduardo | [Autoscale](https://ansi.23-5.eu/2018/02/workload-container-autoscaling-kubernetes/)
 
